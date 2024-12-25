@@ -17,8 +17,8 @@
             </div>
             <div class="menu">
                 <ul>
-                    <li class="header_menu"><a href="#">New York</a></li>
-                    <li class="header_menu"><a href="#">Florida</a></li>
+                    <li class="header_menu"><a href="#">Properties</a></li>
+                    <li class="header_menu"><a href="#">Locations</a></li>
                     <li class="header_menu"><a href="#">Contact Us</a></li>
                     <li class="header_menu"><a href="#">(917)
                             446-0523</a></li>

@@ -50,3 +50,10 @@ function toggleMenu() {
     const sidebarMenu = document.getElementById("sidebarMenu");
     sidebarMenu.classList.toggle("open");
 }
+
+
+
+//********************************************* Counter Section ************************************************/
+
+
+//---------------------------------------------------------- COunters ends ----------------------------------------------------------
