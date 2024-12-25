@@ -43,10 +43,15 @@ $totalPages = ceil($totalNews / $limit);
 </head>
 
 <body>
+
+
     <?php include_once './pages/header.php'; ?>
+    <?php include './pages/about.php' ?>
+    <?php include './pages/states.php' ?>
     <?php include_once './pages/new-section.php'; ?>
     <?php include_once './pages/work-with-us.php'; ?>
     <?php include_once './pages/footer.php'; ?>
+
 
     <script src="./js/index.js"></script>
 </body>
