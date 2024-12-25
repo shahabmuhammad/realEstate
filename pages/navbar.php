@@ -8,9 +8,11 @@
     </div>
     <div class="menu">
         <ul>
-            <li class="header_menu"><a href="#">Properties</a></li>
+            <li class="header_menu">
+                <a href="#">Properties</a>
+            </li>
             <li class="header_menu"><a href="#">Locations</a></li>
-            <li class="header_menu"><a href="#">Contact Us</a></li>
+            <li class="header_menu"><button id="openModal" class="sidebar-button">Contact Us</button></li>
             <li class="header_menu"><a href="#">(917)
                     446-0523</a></li>
             <li class="hamburger-menu-icon"><a
@@ -22,14 +24,13 @@
     <div class="close-icon" onclick="toggleMenu()">&#10005;</div>
     <ul class="extended-menu">
         <li><a href="#">Home</a></li>
-        <li><a href="#">Meet the Team</a></li>
-        <li><a href="#">Our Markets</a></li>
-        <li><a href="#">New York</a></li>
-        <li><a href="#">Florida</a></li>
-        <li><a href="#">Past Transactions</a></li>
-        <li><a href="#">Buyer Representation</a></li>
-        <li><a href="#">Listings We've Taken Over</a></li>
-        <li><a href="#">Resources</a></li>
+        <li><a href="#">Why Paragon</a></li>
+        <li><a href="#">FAQs</a></li>
+        <li><a href="#">News</a></li>
+        <li><a href="#">Why Gwadar</a></li>
         <li><a href="#">Our Services</a></li>
     </ul>
 </div>
+
+
+
