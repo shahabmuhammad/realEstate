@@ -162,10 +162,9 @@ a {
     text-align: left;
     white-space: nowrap;
 }
-
 .new-page-text {
     font-size: 1.5vw;
-    line-height: 10px;
+    line-height: 28px;
 }
 
 .title {
@@ -953,6 +952,7 @@ a:-webkit-any-link {
 
 .all-news-pagination-item {
     list-style: none;
+    line-height: 38px;
 }
 
 .all-news-pagination-link {
@@ -1472,4 +1472,3 @@ a:-webkit-any-link {
     font-size: 24px;
   }
 }
-/************************* Counter Section ends ****************************/
