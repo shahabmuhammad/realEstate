@@ -2,7 +2,7 @@
 // Database configuration
 $host = "localhost";
 $username = "root";
-$password = "";
+$password = "shahab@12";
 $database = "realEstate";
 
 // Connect to the database
