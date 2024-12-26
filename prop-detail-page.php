@@ -12,12 +12,10 @@
 </head>
 
 <body>
-    <?php include_once './pages/news-page-header.php'; ?>
+<?php include_once './pages/navbar.php' ?>
 <?php include_once './pages/social-icons.php' ?>
 
-    <section id="all-news">
-        <?php include_once './pages/all-news.php'; ?>
-    </section>
+    <?php include_once './pages/prop-detail.php'; ?>
     <?php include_once './pages/work-with-us.php'; ?>
     <?php include_once './pages/footer.php'; ?>
 

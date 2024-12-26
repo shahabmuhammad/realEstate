@@ -13,20 +13,26 @@
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
     />
 
+    <style>
+        *{
+            overflow:hidden;
+        }
+    </style>
+
 </head>
 
 <body>
 
 
     <?php include_once './pages/header.php'; ?>
+<?php include_once './pages/social-icons.php' ?>
+
     <?php include './pages/about.php' ?>
     <?php include './pages/states.php' ?>
     <?php include_once './pages/new-section.php'; ?>
     <?php include_once './pages/work-with-us.php'; ?>
     <?php include_once './pages/footer.php'; ?>
     <?php include_once './pages/contactform.php'; ?>
-
-
 
 
     <script src="./js/index.js"></script>

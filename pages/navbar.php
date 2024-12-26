@@ -9,7 +9,7 @@
     <div class="menu">
         <ul>
             <li class="header_menu">
-                <a href="#">Properties</a>
+                <a href="properties-listing.php">Properties</a>
             </li>
             <li class="header_menu"><a href="#">Locations</a></li>
             <li class="header_menu"><button id="openModal" class="sidebar-button">Contact Us</button></li>
