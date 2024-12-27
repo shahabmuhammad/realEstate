@@ -6,7 +6,7 @@
   </button>
   <div class="modal-content">
     <div class="modal-header">
-      <h6 class="subheadline">David Hatef</h6>
+      <h6 class="subheadline">Paragon Heights</h6>
       <h2 class="heading_">Let's Connect</h2>
     </div>
     <div class="modal-body">
@@ -58,30 +58,30 @@
         <div class="contct-details">
           <p>
             Email:
-            <a href="mailto:david@davidhatef.com">david@davidhatef.com</a>
+            <a href="mailto:sultan@paragonheights-gwadar.com">sultan@paragonheights-gwadar.com</a>
           </p>
-          <p>Phone: <a href="tel:6152085600">(615) 208-5600</a></p>
-          <p>3990 Hillsboro Pike, Nashville, TN 37215</p>
+          <p>Phone: <a href="tel:+923327272448">0332-7272448</a></p>
+          <p>Airport Road, Gwadar, Balochistan, Pakistan</p>
         </div>
         <ul class="social-icons_">
           <li>
-            <a href="#" aria-label="Instagram">
+            <a href="https://www.instagram.com/paragonheightsgwadar/" aria-label="Instagram">
               <i class="fa fa-instagram"></i>
             </a>
           </li>
           <li>
-            <a href="#" aria-label="LinkedIn">
+            <a href="https://www.linkedin.com/company/paragon-heights-gwadar" aria-label="LinkedIn">
               <i class="fa fa-linkedin"></i>
             </a>
           </li>
           <li>
-            <a href="#" aria-label="facebook">
-              <i class="fa fa-youtube-play"></i>
+            <a href="https://www.facebook.com/paragonheightsgwadar/" aria-label="facebook">
+              <i class="fa fa-facebook"></i>
             </a>
           </li>
           <li>
-            <a href="#" aria-label="facebook">
-              <i class="fa fa-facebook"></i>
+            <a href="https://www.youtube.com/@paragonheightsgwadar/" aria-label="youtube">
+              <i class="fa fa-youtube-play"></i>
             </a>
           </li>
         </ul>

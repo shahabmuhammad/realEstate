@@ -5,6 +5,11 @@ $username = "4568765_realestate";
 $password = "farooq@12";
 $database = "4568765_realestate";
 
+// $host = "localhost";
+// $username = "root";
+// $password = "";
+// $database = "realestate";
+
 // Connect to the database
 $conn = new mysqli($host, $username, $password, $database);
 

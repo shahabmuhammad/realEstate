@@ -14,9 +14,9 @@
     />
 
     <style>
-        *{
+        /* *{
             overflow-x:hidden;
-        }
+        } */
     </style>
 
 </head>

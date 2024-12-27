@@ -5,6 +5,11 @@ $username = "4568765_realestate";
 $password = "farooq@12";
 $database = "4568765_realestate";
 
+// $host = "localhost";
+// $username = "root";
+// $password = "";
+// $database = "realestate";
+
 $conn = new mysqli($host, $username, $password, $database);
 
 // Check connection
@@ -50,7 +55,7 @@ $result = $conn->query($sql);
         <div class="f-press__btn-wrap">
             <a href="/realEstate/all-news.php" class="f-press__btn button-style-2"
                 data-uw-rm-brl="PR"
-                data-uw-original-href="http://localhost/realEstate/all-news.php">
+                data-uw-original-href="./all-news.php">
                 View All
             </a>
         </div>

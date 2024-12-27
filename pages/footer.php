@@ -1,4 +1,4 @@
-<footer>
+<footer style="overflow-x:hidden">
     <div class="footer-container" id="global-footer">
         <!-- Featured In -->
         <div class="featured-container">
@@ -52,20 +52,16 @@
                     <!-- Contact Info -->
                     <div class="footer-section contact">
                         <h3>CONTACT INFO</h3>
-                        <p>+1.310.623.3600</p>
+                        <p>0332-7272448</p>
                         <p><a
-                                href="mailto:info@carolwoodre.com">info@carolwoodre.com</a></p>
+                                href="mailto:sultan@paragonheights-gwadar.com">sultan@paragonheights-gwadar.com</a></p>
                     </div>
                 </div>
 
                 <!-- Locations -->
                 <div class="footer-section locations">
                     <h3>LOCATIONS</h3>
-                    <p>9440 Santa Monica Blvd., Penthouse<br>Beverly
-                        Hills, CA
-                        90210</p>
-                    <p>1284 Coast Village Rd, Suite A<br>Montecito, CA
-                        93108</p>
+                    <p>Airport Road, Gwadar, Balochistan, Pakistan</p>
                 </div>
 
             </div>
@@ -106,21 +102,21 @@
         </div>
         <div class="socail_media_container">
             <div class="socials">
-                <a href="https://instagram.com" class="socials__item"
+                <a href="https://www.instagram.com/paragonheightsgwadar/" class="socials__item"
                     target="_blank" aria-label="Instagram">
                     <i class="fab fa-instagram"></i>
                 </a>
-                <a href="https://facebook.com" class="socials__item"
+                <a href="https://www.facebook.com/paragonheightsgwadar/" class="socials__item"
                     target="_blank" aria-label="Facebook">
                     <i class="fab fa-facebook-f"></i>
                 </a>
-                <a href="https://youtube.com" class="socials__item"
+                <a href="https://www.youtube.com/@paragonheightsgwadar/" class="socials__item"
                     target="_blank" aria-label="YouTube">
                     <i class="fab fa-youtube"></i>
                 </a>
-                <a href="https://tiktok.com" class="socials__item"
-                    target="_blank" aria-label="TikTok">
-                    <i class="fab fa-tiktok"></i>
+                <a href="https://www.linkedin.com/company/paragon-heights-gwadar" class="socials__item"
+                    target="_blank" aria-label="linkedin">
+                    <i class="fab fa-linkedin-in"></i>
                 </a>
             </div>
         </div>
