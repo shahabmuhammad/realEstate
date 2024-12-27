@@ -12,16 +12,11 @@
 </head>
 
 <body>
-    <?php include_once './pages/news-page-header.php'; ?>
+<?php include_once './pages/news-page-header.php' ?>
 <?php include_once './pages/social-icons.php' ?>
-
-    <section id="all-news">
-        <?php include_once './pages/all-news.php'; ?>
-    </section>
+    <?php include_once './pages/prop-listing.php'; ?>
     <?php include_once './pages/work-with-us.php'; ?>
     <?php include_once './pages/footer.php'; ?>
-    <?php include_once './pages/contactform.php'; ?>
-
 
     <script src="./js/index.js"></script>
 </body>
