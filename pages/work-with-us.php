@@ -18,6 +18,6 @@
               daunting—our
               goal is to make it a seamless and enjoyable experience.
           </p>
-          <button>Contact Us</button>
+          <button class="openModal" type="button">Contact Us</button>
       </div>
   </div>

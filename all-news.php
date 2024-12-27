@@ -18,6 +18,8 @@
     </section>
     <?php include_once './pages/work-with-us.php'; ?>
     <?php include_once './pages/footer.php'; ?>
+    <?php include_once './pages/contactform.php'; ?>
+
 
     <script src="./js/index.js"></script>
 </body>

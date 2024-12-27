@@ -92,27 +92,21 @@
 </div>
 
 <script>
-  document
-    .getElementById("openModal")
-    .addEventListener("click", function() {
-      document
-        .getElementById("modalGlobalContactUs")
-        .classList.add("visible");
+  // Open modal when any element with the class 'openModal' is clicked
+  document.querySelectorAll(".openModal").forEach(button => {
+    button.addEventListener("click", function() {
+      document.getElementById("modalGlobalContactUs").classList.add("visible");
     });
-  document
-    .getElementById("closeModal")
-    .addEventListener("click", function() {
-      document
-        .getElementById("modalGlobalContactUs")
-        .classList.remove("visible");
-    });
-  document
-    .getElementById("modalOverlay")
-    .addEventListener("click", function() {
-      document
-        .getElementById("modalGlobalContactUs")
-        .classList.remove("visible");
-    });
+  });
+
+  // Close modal when the close button or overlay is clicked
+  document.getElementById("closeModal").addEventListener("click", function() {
+    document.getElementById("modalGlobalContactUs").classList.remove("visible");
+  });
+  document.getElementById("modalOverlay").addEventListener("click", function() {
+    document.getElementById("modalGlobalContactUs").classList.remove("visible");
+  });
+
 
   document.getElementById("contactForm").addEventListener("submit", function(e) {
     e.preventDefault();

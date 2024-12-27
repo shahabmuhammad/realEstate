@@ -12,7 +12,7 @@
                 <a href="#">Properties</a>
             </li>
             <li class="header_menu"><a href="#">Locations</a></li>
-            <li class="header_menu"><button id="openModal" class="sidebar-button">Contact Us</button></li>
+            <li class="header_menu"><a class="openModal" type="button">Contact Us</a></li>
             <li class="header_menu"><a href="#">(917)
                     446-0523</a></li>
             <li class="hamburger-menu-icon"><a
