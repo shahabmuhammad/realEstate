@@ -23,7 +23,7 @@
 <div class="sidebar-menu" id="sidebarMenu">
     <div class="close-icon" onclick="toggleMenu()">&#10005;</div>
     <ul class="extended-menu">
-        <li><a href="#">Home</a></li>
+        <li><a href="/realEstate">Home</a></li>
         <li><a href="#">Why Paragon</a></li>
         <li><a href="#">FAQs</a></li>
         <li><a href="#">News</a></li>
@@ -31,6 +31,3 @@
         <li><a href="#">Our Services</a></li>
     </ul>
 </div>
-
-
-
