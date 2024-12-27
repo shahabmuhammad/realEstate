@@ -1,6 +1,6 @@
 <div class="navbar">
     <div class="logo">
-        <a href="/realEstate">
+        <a href="/">
             <img
                 src="https://res.cloudinary.com/luxuryp/images/w_1920,c_limit,f_auto,q_auto/phwc50nvxiojxazuqdvu/ps_logo__monogramtype_white-1"
                 alt="Logo">
@@ -23,7 +23,7 @@
 <div class="sidebar-menu" id="sidebarMenu">
     <div class="close-icon" onclick="toggleMenu()">&#10005;</div>
     <ul class="extended-menu">
-        <li><a href="/realEstate">Home</a></li>
+        <li><a href="/">Home</a></li>
         <li><a href="#">Why Paragon</a></li>
         <li><a href="#">FAQs</a></li>
         <li><a href="#">News</a></li>

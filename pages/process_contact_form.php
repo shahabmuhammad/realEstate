@@ -2,10 +2,10 @@
 header('Content-Type: application/json');
 
 // Database connection
-$host = "localhost";
-$username = "root";
-$password = "shahab@12";
-$dbname = "realEstate";
+$host = "fdb1029.awardspace.net";
+$username = "4568765_realestate";
+$password = "farooq@12";
+$dbname = "4568765_realestate";
 
 $conn = new mysqli($host, $username, $password, $dbname);
 
