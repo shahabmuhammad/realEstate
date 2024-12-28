@@ -115,7 +115,6 @@
     const form = e.target;
     const formData = new FormData(form);
     const responseDiv = document.getElementById("formResponse");
-
     fetch("pages/process_contact_form.php", {
         method: "POST",
         body: formData,
