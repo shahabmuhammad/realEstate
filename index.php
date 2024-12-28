@@ -30,8 +30,8 @@
     <?php include './pages/states.php' ?>
     <?php include './pages/parallex-bg-section.php' ?>
     <?php include './pages/explore-projects.php' ?>
-    <?php include_once './pages/new-section.php'; ?>
     <?php include_once './pages/home-spot-light.php'; ?>
+    <?php include_once './pages/new-section.php'; ?>
     <?php include_once './pages/work-with-us.php'; ?>
     <?php include_once './pages/footer.php'; ?>
     <?php include_once './pages/contactform.php'; ?>
