@@ -1,14 +1,14 @@
 <?php
 // Database configuration
-$host = "fdb1029.awardspace.net";
-$username = "4568765_realestate";
-$password = "farooq@12";
-$database = "4568765_realestate";
+// $host = "fdb1029.awardspace.net";
+// $username = "4568765_realestate";
+// $password = "farooq@12";
+// $database = "4568765_realestate";
 
-// $host = "localhost";
-// $username = "root";
-// $password = "";
-// $database = "realestate";
+$host = "localhost";
+$username = "root";
+$password = "";
+$database = "realestate";
 
 $conn = new mysqli($host, $username, $password, $database);
 

@@ -3,9 +3,14 @@ header('Content-Type: application/json');
 
 // Database connection
 $host = "fdb1029.awardspace.net";
-$username = "4568765_realestate";
+$username = "root";
 $password = "farooq@12";
 $dbname = "4568765_realestate";
+
+// $host = "localhost";
+// $username = "root";
+// $password = "";
+// $database = "realestate";
 
 $conn = new mysqli($host, $username, $password, $dbname);
 

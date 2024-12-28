@@ -26,9 +26,10 @@
 
     <?php include_once './pages/header.php'; ?>
 <?php include_once './pages/social-icons.php' ?>
-
     <?php include './pages/about.php' ?>
     <?php include './pages/states.php' ?>
+    <?php include './pages/parallex-bg-section.php' ?>
+    <?php include './pages/explore-projects.php' ?>
     <?php include_once './pages/new-section.php'; ?>
     <?php include_once './pages/work-with-us.php'; ?>
     <?php include_once './pages/footer.php'; ?>

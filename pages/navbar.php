@@ -1,6 +1,6 @@
 <div class="navbar">
     <div class="logo">
-        <a href="/">
+        <a href="http://localhost/realestate/">
             <img
                 src="assets/img/PARAGON-HEIGHTS-LOGO-light.png.webp"
                 alt="Logo">
@@ -48,7 +48,7 @@
 <div class="sidebar-menu" id="sidebarMenu">
     <div class="close-icon" onclick="toggleMenu()">&#10005;</div>
     <ul class="extended-menu">
-        <li><a href="/">Home</a></li>
+        <li><a href="http://localhost/realestate/">Home</a></li>
         <li><a href="#">Why Paragon</a></li>
         <li><a href="#">FAQs</a></li>
         <li><a href="#">News</a></li>

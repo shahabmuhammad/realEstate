@@ -8,12 +8,10 @@
     <link rel="stylesheet" href="./styles/style.css">
     <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-  
-        <style>
-            body{
-                overflow-x: hidden;
-            }
-        </style
+        <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
 
 </head>
 
@@ -24,6 +22,8 @@
     <?php include_once './pages/prop-detail.php'; ?>
     <?php include_once './pages/work-with-us.php'; ?>
     <?php include_once './pages/footer.php'; ?>
+    <?php include_once './pages/contactform.php'; ?>
+
 
     <script src="./js/index.js"></script>
 </body>
